@@ -5,7 +5,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://github.com/thanhho201">
+  <a href="https://github.com/thanhhoba">
     <img 
       src="https://skillicons.dev/icons?i=nodejs,ts,js,nest,prisma,express,java,spring,postgres,mongodb,react,docker,git,salesforce&theme=light"
     />
